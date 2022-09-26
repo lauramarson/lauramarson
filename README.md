@@ -4,7 +4,7 @@
 
 - 💬 Ask me about Swift
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lauramarson&theme=radical&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lauramarson&theme=radical&show_icons=true&count_private=true)
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=ff69b4)
 
