@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🔭 Atualmente eu trabalho na Zup Innovation como Desenvolvedora iOS
+
+- 🚀 Nos repositórios em destaque abaixo, é possível encontrar projetos originais desenvolvidos por mim, para demonstrar algumas de minhas habilidades.
+
+- ⭐ Ao clicar nos projetos abaixo, será possível visualizar um vídeo demonstrativo do aplicativo iOS desenvolvido.
+
+  ////////////////
+
 - 🔭 I’m currently working on Zup Innovation as iOS Developer
 
 - 🚀 At my pinned repositories, you can find some of my original projects for iOS, developed by myself, to demonstrate some of my main skills.
