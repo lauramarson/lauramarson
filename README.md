@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Atualmente eu trabalho na Zup Innovation como Desenvolvedora iOS
+- 🔭 Atualmente eu trabalho no PicPay como Desenvolvedora iOS
 
 - 🚀 Nos repositórios em destaque abaixo, é possível encontrar projetos originais desenvolvidos por mim, para demonstrar algumas de minhas habilidades.
 
