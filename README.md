@@ -8,7 +8,7 @@
 
 —————————————————————————————————————————————————————————————————————
 
-- 🔭 I’m currently working on Zup Innovation as iOS Developer
+- 🔭 I’m currently working on PicPay as iOS Developer
 
 - 🚀 At my pinned repositories, you can find some of my original projects for iOS, developed by myself, to demonstrate some of my main skills.
 
